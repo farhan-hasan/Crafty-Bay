@@ -1,6 +1,11 @@
 # crafty_bay
 
-A new Flutter project.
+Assignment tasks:
+1. Review List (Done!)
+2. Create Review (Done!)
+3. Delete Cart (Done!)
+3. Delete Wishlist (Done!) implemented the toggle feature using snack message
+5. Complete profile (Done!)
 
 ## Getting Started
 
